@@ -15,9 +15,9 @@
 </p>
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha17012004&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha022&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha17012004&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha022&layout=compact)
 
 ## Find Me
 
@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/siddharthasankarrout">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Siddhartha17012004">
+  <a href="https://github.com/Siddhartha022">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
