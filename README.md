@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </p>
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha022&show_icons=true&theme=radical)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha022&layout=compact)
-
 ## Find Me
 
 <p>
